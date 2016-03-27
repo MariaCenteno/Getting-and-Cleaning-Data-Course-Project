@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-##   THIS REPO INCLUDES THE FOLLOWING FILES:
+##   This repo includes the following files:
 ______________________________________________
 
  1. 'tidydata.txt'   : Contains the final, procesed and independent tidy data set.
@@ -9,7 +9,7 @@ ______________________________________________
  4. 'README.md'      : Explains how all of the scripts work and how they are connected.
 
 
-##     ADDITIONAL INFORMATION:
+##     Additional information:
 ______________________________________________
 
  - The system used was Windows Vista.
@@ -17,7 +17,7 @@ ______________________________________________
  - R 3.2.4 was the R version used to create and run the script.
 
 
-##           REFERENCE:
+##           Reference:
 ______________________________________________
 
  1. Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
