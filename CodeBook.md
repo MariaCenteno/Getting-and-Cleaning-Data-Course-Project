@@ -17,19 +17,30 @@ Download and unzip the dataset, read the files and merges the information to cre
 ## Variables:
 
 subjectTestData : Contains the data table from the subject test file
+
 activityTestData : Contains the data table from the activity test file
+
 featuresTestData : Contains the data table from the features test file
 
 subjectTrainData : Contains the data table from the subject train file
+
 activityTrainData : Contains the data table from the activity train file
+
 featuresTrainData : Contains the data table from the activity train file
 
 subject : Contains the merged data table from the test and train subject data
+
 activity : Contains the merged data table from the test and train activity data
+
 features : Contains the merged data table from the test and train features data
 
 dataSet : Contains the merged data set from the subject, activity and features data tables
+
 subColumnNames : Contains the number of the columns that have the word 'mean' or 'std'
+
 data : Is the dataSet variable but subseted by the subColumnNames variable
+
 activityLabels : Contains the activity descriptive names from the file
+
 tidyDataSet : Data set with the average of the variables
+
